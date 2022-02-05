@@ -1,0 +1,250 @@
+/* ================================
+           extra small device
+=================================== */
+@media (min-width:320px) and (max-width:575px) {
+    nav{
+        position: fixed;
+        top: 0px;
+        background: #b98d91;
+        padding-bottom: 10px;
+    }
+    nav .menu__logo {
+        width: 200px;
+        margin-left: 0;
+    } 
+    nav .menu__logo img{
+      width: 50%;
+      margin-left: 0px;
+    
+    }
+    nav .menu__icon{
+        position: absolute;
+        top: 5%;
+        right: 50px;
+        
+    }
+    
+    nav .menu__icon span{
+     color: #F6B7BC;
+     cursor: pointer;
+     display: inline-block;
+     margin-top: 20px;
+     margin-left: auto;
+    }
+    #banner__section .menu__bar{
+        background: #b98d91;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 100;
+        transition: .4s all ease-in-out;
+        -webkit-transition: .4s all ease-in-out;
+        -moz-transition: .4s all ease-in-out;
+        -ms-transition: .4s all ease-in-out;
+        -o-transition: .4s all ease-in-out;
+    }
+    #banner__section .menu__bar ul {
+        margin-top: 70px;
+    }
+    #present__section .present img {
+        width: 290px;
+        height: 200px;
+    }
+    #present__section .present .psnt__txt{
+        width: 290px;
+        left: 30px;
+        top: -50px;
+    }
+    #present__section .map{
+        height: 190px;
+        margin-top: 200px;
+    }
+    #present__section .present .psnt__txt h3{
+        font-size: 18px;
+    }
+    #present__section .present .psnt__txt h4{
+        font-size: 18px;
+    }
+    #present__section .present .psnt__txt p{
+        font-size: 12px;
+    }
+    #about__section__start .about__img .abt__big__img{
+        width: 300px;
+        height: 300px;
+    }
+    #about__section__start .about__img .abt__small__img {
+        width: 150px;
+        height: 150px;
+    }
+    #about__section__start .about__img .abt__small_2__img{
+        width: 150px;
+        height: 150px;
+        top: 170px;
+    }
+    .lates__trvl__slider .ltst__trvl{
+        height: 150px;
+    }
+    .lates__trvl__slider .ltst__trvl .txt h6{
+        margin-top: 70px;
+    }
+
+}
+
+
+/* ================================
+           small device
+=================================== */
+@media (min-width:576px) and (max-width:767px) {
+    nav{
+        position: fixed;
+        top: 0px;
+        background: #b98d91;
+        padding-bottom: 10px;
+    }
+    nav .menu__logo {
+        width: 200px;
+        margin-left: 0;
+    } 
+    nav .menu__logo img{
+      width: 50%;
+      margin-left: 0px;
+    
+    }
+    nav .menu__icon{
+        position: absolute;
+        top: 5%;
+        right: 50px;
+        
+    }
+    
+    nav .menu__icon span{
+     color: #F6B7BC;
+     cursor: pointer;
+     display: inline-block;
+     margin-top: 20px;
+     margin-left: auto;
+    }
+    #banner__section .menu__bar{
+        background: #b98d91;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 100;
+        transition: .4s all ease-in-out;
+        -webkit-transition: .4s all ease-in-out;
+        -moz-transition: .4s all ease-in-out;
+        -ms-transition: .4s all ease-in-out;
+        -o-transition: .4s all ease-in-out;
+    }
+    #banner__section .menu__bar ul {
+        margin-top: 70px;
+    }
+    #present__section .present img {
+        width: 290px;
+        height: 200px;
+    }
+    #present__section .present .psnt__txt{
+        width: 290px;
+        left: 30px;
+        top: -50px;
+    }
+    #present__section .map iframe{
+        height: 190px;
+    }
+    #present__section .present .psnt__txt h3{
+        font-size: 18px;
+    }
+    #present__section .present .psnt__txt h4{
+        font-size: 18px;
+    }
+    #present__section .present .psnt__txt p{
+        font-size: 12px;
+    }
+}
+/* ================================
+           medium device
+=================================== */
+@media (min-width:768px) and (max-width:991px) {
+    nav{
+        position: fixed;
+        top: 0px;
+        background: #b98d91;
+        padding-bottom: 10px;
+    }
+    nav .menu__logo {
+        width: 200px;
+        margin-left: 0;
+    } 
+    nav .menu__logo img{
+      width: 50%;
+      margin-left: 0px;
+    
+    }
+    nav .menu__icon{
+        position: absolute;
+        top: 5%;
+        right: 50px;
+        
+    }
+    
+    nav .menu__icon span{
+     color: #F6B7BC;
+     cursor: pointer;
+     display: inline-block;
+     margin-top: 20px;
+     margin-left: auto;
+    }
+    #banner__section .menu__bar{
+        background: #b98d91;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 100;
+        transition: .4s all ease-in-out;
+        -webkit-transition: .4s all ease-in-out;
+        -moz-transition: .4s all ease-in-out;
+        -ms-transition: .4s all ease-in-out;
+        -o-transition: .4s all ease-in-out;
+    }
+    #banner__section .menu__bar ul {
+        margin-top: 70px;
+    }
+    #present__section .present img {
+        width: 290px;
+        height: 200px;
+    }
+    #present__section .present .psnt__txt{
+        width: 290px;
+        left: 30px;
+        top: -50px;
+    }
+    #present__section .map iframe{
+        height: 190px;
+    }
+    #present__section .present .psnt__txt h3{
+        font-size: 18px;
+    }
+    #present__section .present .psnt__txt h4{
+        font-size: 18px;
+    }
+    #present__section .present .psnt__txt p{
+        font-size: 12px;
+    }
+}
+/* ================================
+           large device
+=================================== */
+
+/* ================================
+           extra large device
+=================================== */
+
+/* ================================
+           extra extra large device
+=================================== */
